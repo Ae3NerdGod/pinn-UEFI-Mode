@@ -1,0 +1,9 @@
+{
+    "description": "UEFI-Root labled ext4 partition (for advanced multibooting madness)",
+    "name": "UEFI ProjectSpace Root Partition",
+	"group": "UEFI",
+	"bootable": false,
+	"icon": "UEFI",
+    "release_date": "2021-02-11",
+    "url": "https://github.com/pftf/RPi4"
+}

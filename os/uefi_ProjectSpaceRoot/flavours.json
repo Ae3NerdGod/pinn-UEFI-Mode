@@ -1,0 +1,24 @@
+{
+  "flavours": [
+    {
+      "name": "UEFI-ProjectSpace Root Partition - 1",
+	  "icon": "UEFI.png",
+      "description": "an expanding UEFI labeled root partition"
+    },
+    {
+      "name": "UEFI-ProjectSpace Root Partition - 2",
+	  "icon": "UEFI.png",
+      "description": "an expanding UEFI labeled root partition"
+    },
+    {
+      "name": "UEFI-ProjectSpace Root Partition - 3",
+	  "icon": "UEFI.png",
+      "description": "an expanding UEFI labeled root partition"
+    },
+    {
+      "name": "UEFI-ProjectSpace Root Partition - 4",
+	  "icon": "UEFI.png",
+      "description": "an expanding UEFI labeled root partition"
+    }
+  ]
+}

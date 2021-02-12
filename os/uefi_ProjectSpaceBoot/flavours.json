@@ -1,0 +1,25 @@
+{
+  "flavours": [
+    {
+      "name": "UEFI-ProjectSpace Boot Partition - 1",
+	  "icon": "UEFI.png",
+      "description": "a 512mb UEFI labeled boot partition"
+    },
+    {
+      "name": "UEFI-ProjectSpace Boot Partition - 2",
+	  "icon": "UEFI.png",
+      "description": "a 512mb UEFI labeled boot partition"
+    },
+    {
+      "name": "UEFI-ProjectSpace Boot Partition - 3",
+      "icon": "UEFI.png",
+	  "description": "a 512mb UEFI labeled boot partition"
+    },
+    {
+      "name": "UEFI-ProjectSpace Boot Partition - 4",
+	  "icon": "UEFI.png",
+      "description": "a 512mb UEFI labeled boot partition"
+    }
+    
+  ]
+}

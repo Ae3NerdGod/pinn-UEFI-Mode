@@ -1,0 +1,12 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "UEFI-Mode",
+            "mkfs_options": "-F 32",
+            "partition_size_nominal": 256,
+            "uncompressed_tarball_size": 60,
+            "want_maximised": false
+        }
+    ]
+}
