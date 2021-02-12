@@ -1,0 +1,101 @@
+{
+ "os_list": [
+
+
+            {
+            "os_name": "UEFI Mode",
+			"description": "  **FOR PI 4**     reboots into uefi firmware (for advanced multibooting madness)",
+            "icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode/UEFI.png",
+            "nominal_size": 256,
+            "os_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode/os.json",
+			"group": "UEFI",
+            "partitions_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode/partitions.json",
+            "release_date": "2021-2-11",
+            "tarballs": [
+                "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode/UEFI-Mode.tar.xz"
+                      ] 
+            },
+			
+			{
+            "os_name":	    "UEFI-ProjectSpace Boot",
+            "description":  "512MB Empty project space UEFI-Boot labled ext4 partition (for advanced multibooting madness)",
+            "release_date": "2021-02-11",
+            "group":         "UEFI-ProjectSpaces",
+              "flavours": [
+					{
+					"name": "UEFI-ProjectSpace Boot Partition - 1",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/UEFI.png",
+					"description": "a 512mb UEFI labeled boot partition"
+					},
+					{
+					"name": "UEFI-ProjectSpace Boot Partition - 2",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/UEFI.png",
+					"description": "a 512mb UEFI labeled boot partition"
+					},
+					{
+					"name": "UEFI-ProjectSpace Boot Partition - 3",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/UEFI.png",
+					"description": "a 512mb UEFI labeled boot partition"
+					},
+					{
+					"name": "UEFI-ProjectSpace Boot Partition - 4",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/UEFI.png",
+					"description": "a 512mb UEFI labeled boot partition"
+					}
+    
+				],
+            "os_info":         "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/os.json",
+            "partitions_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/partitions.json",
+            "icon":            "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/UEFI.png",
+            
+            "tarballs": [
+                               "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceBoot/UEFI-Boot.tar.xz"
+            ],
+            "nominal_size": 1
+			},
+			
+			{
+            "os_name":	    "UEFI-ProjectSpace Root",
+            "description":  "UEFI-Root labled ext4 partition (for advanced multiRooting madness)",
+            "release_date": "2021-02-11",
+            "group":         "UEFI-ProjectSpaces",
+              "flavours": [
+					{
+					"name": "UEFI-ProjectSpace Root Partition - 1",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/UEFI.png",
+					"description": "UEFI-Root labled ext4 partition "
+					},
+					{
+					"name": "UEFI-ProjectSpace Root Partition - 2",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/UEFI.png",
+					"description": "UEFI-Root labled ext4 partition "
+					},
+					{
+					"name": "UEFI-ProjectSpace Root Partition - 3",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/UEFI.png",
+					"description": "UEFI-Root labled ext4 partition "
+					},
+					{
+					"name": "UEFI-ProjectSpace Root Partition - 4",
+					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/UEFI.png",
+					"description": "UEFI-Root labled ext4 partition "
+					}
+    
+				],
+            "os_info":         "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/os.json",
+            "partitions_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/partitions.json",
+            "icon":            "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/UEFI.png",
+            
+            "tarballs": [
+                               "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_ProjectSpaceRoot/UEFI-Root.tar.xz"
+            ],
+            "nominal_size": 1
+			}
+			
+			]
+}
+
+		
+		
+		
+			
