@@ -5,28 +5,28 @@
 		{
 			"os_name": "UEFI Mode Pi 4",
 			"description": "Reboots into UEFI firmware",
-			"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi4/UEFI.png",
+			"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi4/UEFI.png",
 			"nominal_size": 256,
-			"os_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi4/os.json",
+			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi4/os.json",
 			"group": "UEFI-Setup",
-			"partitions_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi4/partitions.json",
+			"partitions_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi4/partitions.json",
 			"release_date": "2021-2-14",
 			"tarballs": [
-				"http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi4/UEFI-Mode.tar.xz"
+				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi4/UEFI-Mode.tar.xz"
 			]
 		},
 
 		{
 			"os_name": "UEFI Mode Pi 3",
 			"description": "Reboots into UEFI firmware",
-			"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi3/UEFI.png",
+			"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi3/UEFI.png",
 			"nominal_size": 256,
-			"os_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi3/os.json",
+			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi3/os.json",
 			"group": "UEFI-Setup",
-			"partitions_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi3/partitions.json",
+			"partitions_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi3/partitions.json",
 			"release_date": "2021-2-14",
 			"tarballs": [
-				"http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_mode_pi3/UEFI-Mode.tar.xz"
+				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi3/UEFI-Mode.tar.xz"
 			]
 		},
 
@@ -37,32 +37,32 @@
 			"group": "UEFI-Setup",
 			"flavours": [{
 					"name": "16 GB PINN OS Stub - 1",
-					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/UEFI.png",
+					"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/UEFI.png",
 					"description": "Reserve space for a PINN OS and leave space for UEFI partitions "
 				},
 				{
 					"name": "16 GB PINN OS Stub - 2",
-					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/UEFI.png",
+					"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/UEFI.png",
 					"description": "Reserve space for a PINN OS and leave space for UEFI partitions "
 				},
 				{
 					"name": "16 GB PINN OS Stub - 3",
-					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/UEFI.png",
+					"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/UEFI.png",
 					"description": "Reserve space for a PINN OS and leave space for UEFI partitions "
 				},
 				{
 					"name": "16 GB PINN OS Stub - 4",
-					"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/UEFI.png",
+					"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/UEFI.png",
 					"description": "Reserve space for a PINN OS and leave space for UEFI partitions "
 				}
 
 			],
-			"os_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/os.json",
-			"partitions_info": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/partitions.json",
-			"icon": "http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/UEFI.png",
+			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/os.json",
+			"partitions_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/partitions.json",
+			"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/UEFI.png",
 			"tarballs": [
-				"http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/Stub-Boot.tar.xz",
-				"http://github.com/Ae3NerdGod/pinn-uefi/raw/main/os/uefi_OS_Stub/Stub-Root.tar.xz"
+				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/Stub-Boot.tar.xz",
+				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_OS_Stub/Stub-Root.tar.xz"
 			],
 			"nominal_size": 15260
 		}
