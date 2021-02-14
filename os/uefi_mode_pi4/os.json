@@ -1,0 +1,12 @@
+{
+	"name": "UEFI Mode",
+    "description": "PI 4 - reboots into uefi firmware",
+	"group": "UEFI-Setup",
+	"icon": "UEFI.png",
+	"supported_models": [
+		"4"
+	],
+    "release_date": "2021-02-12",
+    "url": "https://github.com/pftf/RPi4",
+    "version": "3_1.22"
+}

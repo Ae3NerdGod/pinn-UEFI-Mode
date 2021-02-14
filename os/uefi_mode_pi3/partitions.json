@@ -4,8 +4,8 @@
             "filesystem_type": "FAT",
             "label": "UEFI-Mode",
             "mkfs_options": "-F 32",
-            "partition_size_nominal": 256,
-            "uncompressed_tarball_size": 60,
+            "partition_size_nominal": 550,
+            "uncompressed_tarball_size": 550,
             "want_maximised": false
         }
     ]

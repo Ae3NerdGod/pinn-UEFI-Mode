@@ -1,9 +1,0 @@
-{
-    "description": "512MB Empty project space UEFI-Boot labled ext4 partition (for advanced multibooting madness)",
-    "name": "UEFI ProjectSpace Boot Partition",
-	"group": "UEFI",
-	"icon": "UEFI",
-	"bootable": false,
-    "release_date": "2021-02-11",
-    "url": "https://github.com/pftf/RPi4"
-}

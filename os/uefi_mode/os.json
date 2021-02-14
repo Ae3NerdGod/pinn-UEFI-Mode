@@ -1,9 +1,0 @@
-{
-    "description": "  PI 4     reboots into uefi firmware (for advanced multibooting madness)",
-    "name": "UEFI Mode",
-	"group": "UEFI",
-	"icon": "UEFI",
-    "release_date": "2021-01-06",
-    "url": "https://github.com/pftf/RPi4",
-    "version": "1.22"
-}
