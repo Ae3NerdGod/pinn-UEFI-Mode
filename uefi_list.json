@@ -52,6 +52,7 @@
 			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_extended_freespace/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_extended_freespace/partitions.json",
+			"partition_setup": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_extended_freespace/partition_setup.sh",
 			"release_date": "2021-2-15",
 			"tarballs": [
 				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_extended_freespace/DELTHIS.tar.xz"
