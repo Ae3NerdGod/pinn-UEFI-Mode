@@ -1,6 +1,6 @@
 {
 	"name": "UEFI Extended Partition FreeSpace",
-    "description": "makes Extended partition have freespace ",
+    "description": "makes Extended partition have freespace",
 	"group": "UEFI-Setup",
 	"icon": "UEFI.png",
 	"bootable": false,
