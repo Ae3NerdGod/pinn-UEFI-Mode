@@ -4,9 +4,9 @@
 	"group": "UEFI-Setup",
 	"icon": "UEFI.png",
 	"supported_models": [
-		"3"
+		"Pi 3"
 	],
-    "release_date": "2021-02-14",
-    "url": "https://github.com/pftf/RPi4",
-    "version": "1_1.32"
+    "release_date": "2021-02-15",
+    "url": "https://github.com/pftf/RPi3",
+    "version": "1.32-1"
 }

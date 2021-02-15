@@ -1,0 +1,10 @@
+{
+	"name": "UEFI Extended Partition FreeSpace",
+    "description": "makes Extended partition have freespace ",
+	"group": "UEFI-Setup",
+	"icon": "UEFI.png",
+	"bootable": false,
+    "release_date": "2021-02-15",
+    "url": "https://github.com/pftf/RPi4",
+    "version": "1"
+}

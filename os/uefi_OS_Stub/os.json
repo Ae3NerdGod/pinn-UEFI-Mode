@@ -1,9 +1,0 @@
-{
-    "name": "16 GB PINN OS Stub",
-    "description": "Reserve space for a PINN OS and leave space for UEFI partitions",
-	"group": "UEFI-Setup",
-	"icon": "UEFI.png",
-	"bootable": false,
-    "release_date": "2021-02-14",
-    "url": "https://github.com/pftf/RPi4"
-}

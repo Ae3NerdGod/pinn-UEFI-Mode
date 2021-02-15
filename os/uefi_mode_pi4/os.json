@@ -6,7 +6,7 @@
 	"supported_models": [
 		"4"
 	],
-    "release_date": "2021-02-12",
+    "release_date": "2021-02-15",
     "url": "https://github.com/pftf/RPi4",
-    "version": "3_1.22"
+    "version": "1.22-3"
 }
