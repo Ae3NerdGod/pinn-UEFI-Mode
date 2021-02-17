@@ -38,7 +38,7 @@
 			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi3/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi3/partitions.json",
-			"release_date": "2021-2-15",
+			"release_date": "2021-2-17",
 			"tarballs": [
 				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi3/UEFI-Mode.tar.xz"
 			]
@@ -52,7 +52,7 @@
 			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi4/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi4/partitions.json",
-			"release_date": "2021-2-15",
+			"release_date": "2021-2-17",
 			"tarballs": [
 				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi4/UEFI-Mode.tar.xz"
 			]

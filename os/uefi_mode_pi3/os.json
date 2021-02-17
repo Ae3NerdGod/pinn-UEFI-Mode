@@ -1,5 +1,5 @@
 {
-	"name": "UEFI Mode",
+	"name": "UEFI Mode Pi 3",
     "description": "PI 3 - reboots into uefi firmware",
 	"group": "UEFI-Setup",
 	"icon": "UEFI.png",

@@ -1,5 +1,5 @@
 {
-	"name": "UEFI Mode with RecoverESP",
+	"name": "UEFI Mode with RecoverESP Pi 4",
     "description": "PI 4 - starts UEFI and modifies PINN Recovery partition to double as ESP (toggleable via re-run of partition_setup.sh)",
 	"group": "UEFI-Setup",
 	"icon": "UEFI.png",
