@@ -3,8 +3,8 @@
 
 
 		{
-			"os_name": "UEFI Mode Pi 4",
-			"description": "Reboots into UEFI firmware",
+			"os_name": "UEFI Mode",
+			"description": "Pi 4 - Reboots into UEFI firmware",
 			"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi4/UEFI.png",
 			"nominal_size": 256,
 			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi4/os.json",
@@ -17,8 +17,8 @@
 		},
 
 		{
-			"os_name": "UEFI Mode Pi 3",
-			"description": "Reboots into UEFI firmware",
+			"os_name": "UEFI Mode",
+			"description": "Pi 3 - Reboots into UEFI firmware",
 			"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi3/UEFI.png",
 			"nominal_size": 256,
 			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_pi3/os.json",
@@ -30,6 +30,20 @@
 			]
 		},
 
+		{
+			"os_name": "UEFI Mode with RecoverESP",
+			"description": "PI 3 - reboots into uefi firmware and modifies PINN Recovery partition to double as ESP",
+			"icon": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi3/UEFI.png",
+			"nominal_size": 256,
+			"os_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi3/os.json",
+			"group": "UEFI-Setup",
+			"partitions_info": "http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi3/partitions.json",
+			"release_date": "2021-2-15",
+			"tarballs": [
+				"http://github.com/Ae3NerdGod/pinn-UEFI-Mode/raw/main/os/uefi_mode_recoverESP_pi3/UEFI-Mode.tar.xz"
+			]
+		},
+		
 		{
 			"os_name": "UEFI Mode with RecoverESP",
 			"description": "PI 4 - reboots into uefi firmware and modifies PINN Recovery partition to double as ESP",
