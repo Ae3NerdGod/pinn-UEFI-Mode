@@ -1,12 +1,12 @@
 {
 	"name": "UEFI Mode with RecoverESP",
-    "description": "PI 4 - reboots into uefi firmware and modifies PINN Recovery partition to double as ESP",
+    "description": "PI 4 - starts UEFI and modifies PINN Recovery partition to double as ESP (toggleable via re-run of partition_setup.sh)",
 	"group": "UEFI-Setup",
 	"icon": "UEFI.png",
 	"supported_models": [
 		"Pi 4"
 	],
-    "release_date": "2021-02-15",
+    "release_date": "2021-02-17",
     "url": "https://github.com/pftf/RPi4",
     "version": "1.22"
 }

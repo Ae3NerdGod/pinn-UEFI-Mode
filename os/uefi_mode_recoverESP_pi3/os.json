@@ -1,0 +1,12 @@
+{
+	"name": "UEFI Mode with RecoverESP",
+    "description": "PI 3 - starts UEFI and modifies PINN Recovery partition to double as ESP (toggleable via re-run of partition_setup.sh)",
+	"group": "UEFI-Setup",
+	"icon": "UEFI.png",
+	"supported_models": [
+		"Pi 3"
+	],
+    "release_date": "2021-02-17",
+    "url": "https://github.com/pftf/RPi3",
+    "version": "1.32"
+}
